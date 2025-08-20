@@ -57,11 +57,20 @@ Plots will be saved in the plots/ folder:
 ⭐ Rating Distribution → plots/rating_distribution.png
 
 📊 Sample Outputs
-Top 10 Movie Genres
+Top 10 Movie Genres 
+
+<img width="1197" height="780" alt="image" src="https://github.com/user-attachments/assets/8101516b-1d95-46e3-89c8-74f01cc663b8" />
+
 
 Top 10 Actors
 
+<img width="1255" height="754" alt="image" src="https://github.com/user-attachments/assets/d9dfc6a6-456b-4e3f-8acc-6fc7d80882dd" />
+
+
 Distribution of Ratings
+
+<img width="998" height="745" alt="image" src="https://github.com/user-attachments/assets/cc53a112-3757-47c4-abba-734a953cdea8" />
+
 
 📌 Future Improvements
 
